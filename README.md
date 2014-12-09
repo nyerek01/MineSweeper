@@ -1,4 +1,0 @@
-MineSweeper
-===========
-
-Basic minesweeper game.
