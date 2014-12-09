@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player id="1">
+    <Name>Dave</Name>
+    <Level>Expert</Level>
+    <Time>1</Time>
+  </Player>
+
+  <Player id="2">
+    <Name>David</Name>
+    <Level>Intermediate</Level>
+    <Time>12</Time>
+  </Player>
+  <Player id="3">
+    <Name>D.D.</Name>
+    <Level>Easy</Level>
+    <Time>33</Time>
+  </Player>
+
+  <Player id="4">
+    <Name>Dr. D.</Name>
+    <Level>Low</Level>
+    <Time>21</Time>
+  </Player>
+
+  <Player id="5">
+    <Name>Double D.</Name>
+    <Level>Beginner</Level>
+    <Time>111</Time>
+  </Player>
+
+  <Player id="6">
+    <Name>D</Name>
+    <Level>Hard</Level>
+    <Time>2</Time>
+  </Player>
+
+  <Player id="7">
+    <Name>D.D.B.</Name>
+    <Level>Medium</Level>
+    <Time>10</Time>
+  </Player>
+</Players>
